@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-APP_NAME = "rs102"
+APP_NAME = "rs103"
 
 # import settings config
 settingsfile=docker/config.env
