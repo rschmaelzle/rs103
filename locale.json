@@ -1,0 +1,90 @@
+{
+    "en": {
+        "langName": "English",
+        "title": "Mass Communication and Public Health",
+        "slogan": "An interactive, modern, and global course",
+        "description": "Mass comm and public health....",
+        "bio": "I'm Ralf, an assitant professor in the Department of Communication at Michigan State University and PI of the Neuroscience of Messages Lab (NOMLab). I hope you'll enjoy this course.",
+        "video": "IoXoLVjT178",
+        "footerLinks": [
+            {
+                "text": "Website",
+                "url": "https://nomcomm.github.io"
+            },
+            {
+                "text": "Source",
+                "url": "https://github.com/rschmaelzle/rs102"
+            }
+        ],
+        "socialImage": "social.jpg",
+        "uiText": {
+            "aboutMe": "About me",
+            "aboutCourse": "About this course",
+            "markAsCompleted": "Mark as completed",
+            "removeFromCompleted": "Remove from completed",
+            "completed": "Completed",
+            "submit": "Submit",
+            "correct": "That's correct!",
+            "incorrect": "Incorrect.",
+            "showSolution": "Show solution",
+            "reset": "Reset",
+            "runCode": "Run code",
+            "next": "Next",
+            "showHints": "Show hints",
+            "hideHints": "Hide hints",
+            "loading": "Loading...",
+            "connectingFailed": "Connecting failed. Please reload and try again.",
+            "launchingDocker": "Launching Docker container on",
+            "reconnectingDocker": "Reconnecting to Docker container on",
+            "prevChapter": "Previous Chapter",
+            "nextChapter": "Next Chapter",
+            "start": "Start",
+            "video": "Video",
+            "slides": "Slides"
+        }
+    },
+    "de": {
+        "langName": "Deutsch",
+        "title": "Modernes NLP mit spaCy",
+        "slogan": "Ein interaktiver, moderner und globaler Kurs",
+        "description": "Dieser Kurs ... moderne Massenkommunikation.",
+        "bio": "Ich bin Ralf. Ich arbeite als Assistant Professor am Department of Communication an der Michigan State University. Mein Spezialgebiet is Communication Neuroscience und ich erfosche wie wir auf gesundheitliche Botschaften reagieren.",
+        "video": "K1elwpgDdls",
+        "footerLinks": [
+           {
+                "text": "Website",
+                "url": "https://nomcomm.github.io"
+            },
+            {
+                "text": "Quellcode",
+                "url": "https://github.com/rschmaelzle/rs102"
+            }
+        ],
+        "socialImage": "social_de.jpg",
+        "uiText": {
+            "aboutMe": "Über mich",
+            "aboutCourse": "Über diesen Kurs",
+            "markAsCompleted": "Als gelöst markieren",
+            "removeFromCompleted": "Als ungelöst markieren",
+            "completed": "Gelöst",
+            "submit": "Antworten",
+            "correct": "Korrekt!",
+            "incorrect": "Leider falsch.",
+            "showSolution": "Lösung zeigen",
+            "reset": "Zurücksetzen",
+            "runCode": "Code testen",
+            "next": "Weiter",
+            "showHints": "Tipps zeigen",
+            "hideHints": "Tipps verstecken",
+            "loading": "Lade...",
+            "connectingFailed": "Verbindung fehlgeschlagen. Bitte lade die Seite neu und versuche es nochmal.",
+            "launchingDocker": "Starte Docker-Container auf",
+            "reconnectingDocker": "Verbinde mit Docker-Container auf",
+            "prevChapter": "Vorheriges Kapitel",
+            "nextChapter": "Nächstes Kapitel",
+            "start": "Start",
+            "video": "Video",
+            "slides": "Präsentation"
+        }
+    }
+}
