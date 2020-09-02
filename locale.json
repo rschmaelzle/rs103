@@ -1,9 +1,9 @@
 {
     "en": {
         "langName": "English",
-        "title": "Mass Communication and Public Health",
+        "title": "Formative Research Methods",
         "slogan": "An interactive, modern, and global course",
-        "description": "Mass comm and public health....",
+        "description": "Formative ....",
         "bio": "I'm Ralf, an assitant professor in the Department of Communication at Michigan State University and PI of the Neuroscience of Messages Lab (NOMLab). I hope you'll enjoy this course.",
         "video": "IoXoLVjT178",
         "footerLinks": [
@@ -13,7 +13,7 @@
             },
             {
                 "text": "Source",
-                "url": "https://github.com/rschmaelzle/rs102"
+                "url": "https://github.com/rschmaelzle/rs103"
             }
         ],
         "socialImage": "social.jpg",
