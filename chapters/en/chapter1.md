@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1: Campaigns: Goals, Past and Present '
+title: 'Chapter 1: Introduction to Health Campaigns'
 description:
   "This chapter will introduce you to the field of Health Communication.
   You'll learn about the history of public communication campaigns, about major disciplines involved, and about successes and failures. We will discuss the role of campaign strategy, theory, and research for creating a campaign that has maximal chances for success. The chapter is meant as an introduction and to provide the context for the main part of the course - the specific formative research methods. At the end, we will discuss the need for Formative Research and review the major branches of Formative Research Methods."
@@ -10,20 +10,8 @@ id: 1
 ---
 
 <exercise id="1" title="Health Communication: Definition and Introduction" type="video">
-we will just try to write some text
-and here it just goes on without an actual break, only a single one
-  
-in-class presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the.  \n\n
-this is after the double NN in-class presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
-&nbsp;  
-&nbsp;  
-this is after the double nbps with the double space presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p></p>
-this is after the single nbps with the single space presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
-
-
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
 - A message/sign that contains information how to leave a house during an emergency would be considered an ...  
 
 <choice>
@@ -54,8 +42,8 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 
 <exercise id="2" title="History and Current Role" type="video">
 
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/DbFxSvyznDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DbFxSvyznDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 If logged in to OneDrive, you will see here a form:
 
@@ -68,22 +56,24 @@ If logged in to OneDrive, you will see here a form:
 - The Health Persuasion Approach
 
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 - Social Marketing Approach
-<br><br>
+
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 - Psychology/Behavior Change Approaches
-<br><br>
+
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 - Exercise (Must be logged in!)
 
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
-
+<p></p>
 
 - Bonus: Behavior Change Taxonomy App
-<br><br>
+
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//SzDSVx6gY0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 </exercise>
@@ -91,17 +81,17 @@ If logged in to OneDrive, you will see here a form:
 <exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
   
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
+<p></p>
 - CommLibs Exercise (Must be logged in! This one is centered)
 
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMlBKRzZZVjBVTUdDQlpXMDQzMVoxOTM4Mi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
-
-
 <exercise id="5" title="Instructions for the course"  type="video">
 
 - Under construction! 
+<p></p>
 - It is great that you already made it until here! 
+<p></p>
 - Stay tuned!
 
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
