@@ -10,7 +10,7 @@ id: 1
 ---
 
 <exercise id="1" title="Health Communication: Definition and Introduction" type="video">
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
   
   
  
