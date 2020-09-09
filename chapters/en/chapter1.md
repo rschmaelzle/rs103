@@ -10,10 +10,10 @@ id: 1
 ---
 
 <exercise id="1" title="Health Communication: Definition and Introduction" type="video">
-
-<iframe width="560" height="315" align="center" src="https://youtu.be/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  
+ 
 
 A message/sign that contains information how to leave a house during an emergency would be considered an ...  
 
@@ -44,6 +44,9 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/DbFxSvyznDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQ1VKTlhFVVlUQVBKRUtBRVhZVTY4UUE2OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+excel form
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 </exercise>
 
