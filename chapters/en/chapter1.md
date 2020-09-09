@@ -9,8 +9,8 @@ type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Health Communication: Definition and Introduction" type="video">
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<exercise id="1" title="Overview and Definitions" type="video">
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><c?enter>
 <p></p>
 - A message/sign that contains information how to leave a house during an emergency would be considered an ...  
 
@@ -33,39 +33,35 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 
 </choice>
 
-- Please give me some information about your background, motivation, and preexisting knowledge! 
-
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
 </exercise>
 
 
-<exercise id="2" title="History and Current Role" type="video">
+<exercise id="2" title="Health communication across the ages" type="video">
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ng_BFaj8y7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
-If logged in to OneDrive, you will see here a form:
+If logged in to OneDrive, you will see  a form. If you are not logged in, please follow the instructions and then fill out the form!
 
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 </exercise>
 
-<exercise id="3" title="Major theoretical camps, types of Health Campaigns, and key goals" type="video">
+<exercise id="3" title="Major disciplines involved" type="video">
 
 - The Health Persuasion Approach
 
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 - Social Marketing Approach
 
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 - Psychology/Behavior Change Approaches
 
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 - Exercise (Must be logged in!)
 
@@ -90,12 +86,17 @@ If logged in to OneDrive, you will see here a form:
 
 <exercise id="5" title="Instructions for the course"  type="video">
 
-- Under construction! 
+Congratulations to completing the first chapter. The goal of this chapter was to bring everyone on more or less the same page, providing common ground and cover the minimal basics of the health campaign business. From here on, we will no longer focus on these big-picture topics, but learn very concrete methods that we can use to optimize messages. 
 <p></p>
-- It is great that you already made it until here! 
-<p></p>
-- Stay tuned!
+I have two more points: First, please fill out the form below to provide me with some sense of who you are, why you are taking this course, and how I can make this work well for you. 
 
+Second, I want to give you an outline of how this course is intended to work: 
+- D2L and this site contain all the content - you can chose which works better for you. I personally find  this site better designed and easier to stay on top. 
+- In terms of meetings, we will in some weeks meet online and in others I will mainly post prerecorded content. I will let you know via email in which weeks we meet
+- In terms of the points that make up the grade, the detailed breakup is in the syllabus: First, you need to fill out the forms to receive quiz-points, which are the online-equivalent of attendance points. Second, you need to sign up for the campaign of the day and give a presentation. You can prerecord that presentation! Third, we will have an exam at the end of the course. The exam questions will be very similar to the quiz/form/reflection questions that your will complete throughout the course. Lastly, you will work on your own formative research project. Details on this will be provided in the next chapter.
+<p></p>
+Thank you! I am looking forward to getting to know you better and hearing your feedback !
+<p></p>
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 </exercise>
