@@ -8,6 +8,16 @@ type: chapter
 id: 2
 ---
 
+
+<exercise id="1" title="Formative research: Overview"  type="video">
+
+- Under construction! 
+- It is great that you already made it until here! 
+- Stay tuned!
+
+</exercise>
+
+
 <exercise id="1" title="Audience Research" type="slides,video">
 asdf
 
