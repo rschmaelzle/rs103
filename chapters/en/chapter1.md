@@ -11,8 +11,8 @@ id: 1
 
 <exercise id="1" title="Health Communication: Definition and Introduction" type="video">
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br><br>
-A message/sign that contains information how to leave a house during an emergency would be considered an ...  
+
+- A message/sign that contains information how to leave a house during an emergency would be considered an ...  
 
 <choice>
 <opt text="Awareness message.">
@@ -49,33 +49,33 @@ If logged in to OneDrive, you will see here a form:
 
 <exercise id="3" title="Major theoretical camps, types of Health Campaigns, and key goals" type="video">
 
-The Health Persuasion Approach
-<br><br>
+- The Health Persuasion Approach
+
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br><br>
-Social Marketing Approach
+
+- Social Marketing Approach
 <br><br>
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br><br>
-Psychology/Behavior Change Approaches
+
+- Psychology/Behavior Change Approaches
 <br><br>
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br><br>
-Exercise (Must be logged in!)
-<br><br>
+
+- Exercise (Must be logged in!)
+
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 </exercise>
 
 <exercise id="4" title="Seeds for success: Theory, Research, and Strategy" type="video">
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br><br>
-Exercise (Must be logged in!)
-<br><br>
+
+- Exercise (Must be logged in!)
+
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 </exercise>
 
 <exercise id="5" title="Formative research: Overview"  type="video">
 
-Uner construction! It is great that you already made it until here! Stay tuned!
+- Under construction! It is great that you already made it until here! Stay tuned!
 
 </exercise>
