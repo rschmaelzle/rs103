@@ -84,7 +84,8 @@ If logged in to OneDrive, you will see here a form:
 
 </exercise>
 
-<exercise id="4" title="Seeds for success: A Strategic approach informed by theory and research" type="video">
+<exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
+  
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 - Exercise (Must be logged in! This one is centered)
