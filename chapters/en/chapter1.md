@@ -102,3 +102,13 @@ If logged in to OneDrive, you will see here a form:
 - Stay tuned!
 
 </exercise>
+
+
+
+<exercise id="5" title="Instructions for the course"  type="video">
+
+- Under construction! 
+- It is great that you already made it until here! 
+- Stay tuned!
+
+</exercise>
