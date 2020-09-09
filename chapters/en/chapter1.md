@@ -18,7 +18,7 @@ this is after the double NN in-class presentation ‘Campaign of the day’: At 
 &nbsp;  
 &nbsp;  
 this is after the double nbps with the double space presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
-&nbsp;
+<p></p>
 this is after the single nbps with the single space presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
 
 
@@ -55,7 +55,7 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 
 If logged in to OneDrive, you will see here a form:
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 </exercise>
 
@@ -75,7 +75,7 @@ If logged in to OneDrive, you will see here a form:
 
 - Exercise (Must be logged in!)
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 - Bonus: Behavior Change Taxonomy App
@@ -87,9 +87,9 @@ If logged in to OneDrive, you will see here a form:
 <exercise id="4" title="Seeds for success: A Strategic approach informed by theory and research" type="video">
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-- Exercise (Must be logged in!)
+- Exercise (Must be logged in! This one is centered)
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=todo&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=todo&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" align="center" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 </exercise>
 
 
