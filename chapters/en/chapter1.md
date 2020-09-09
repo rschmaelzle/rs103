@@ -10,7 +10,7 @@ id: 1
 ---
 
 <exercise id="1" title="Health Communication: Definition and Introduction" type="video">
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 - A message/sign that contains information how to leave a house during an emergency would be considered an ...  
 
@@ -42,7 +42,7 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 
 <exercise id="2" title="History and Current Role" type="video">
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DbFxSvyznDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ng_BFaj8y7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 If logged in to OneDrive, you will see here a form:
@@ -80,11 +80,13 @@ If logged in to OneDrive, you will see here a form:
 
 <exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
   
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ijZipUhwLVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 - CommLibs Exercise (Must be logged in! This one is centered)
 
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMlBKRzZZVjBVTUdDQlpXMDQzMVoxOTM4Mi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
+</exercise>
 
 <exercise id="5" title="Instructions for the course"  type="video">
 
