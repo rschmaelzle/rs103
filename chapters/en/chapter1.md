@@ -2,7 +2,7 @@
 title: 'Chapter 1: Campaigns: Goals, Past and Present '
 description:
   "This chapter will introduce you to the field of Health Communication.
-  You'll learn about the history of public communication campaigns and about successes and failures. We will discuss the role of campaign strategy, theory, and research for creating a campaign that has maximal chances for success. Specifically, we will discuss the role of Formative Research and the major branches of Formative Research Methods."
+  You'll learn about the history of public communication campaigns, about major disciplines involved, and about successes and failures. We will discuss the role of campaign strategy, theory, and research for creating a campaign that has maximal chances for success. The chapter is meant as an introduction and to provide the context for the main part of the course - the specific formative research methods. At the end, we will discuss the need for Formative Research and review the major branches of Formative Research Methods."
 prev: null
 next: /chapter2
 type: chapter
