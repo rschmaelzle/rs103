@@ -10,6 +10,18 @@ id: 1
 ---
 
 <exercise id="1" title="Health Communication: Definition and Introduction" type="video">
+we will just try to write some text
+and here it just goes on without an actual break, only a single one
+  
+in-class presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the.  \n\n
+this is after the double NN in-class presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
+&nbsp;  
+&nbsp;  
+this is after the double nbps with the double space presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
+&nbsp;
+this is after the single nbps with the single space presentation ‘Campaign of the day’: At the beginning of each class, one of you will present a ‘Campaign of the Day’, introduce the  issue the campaign addresses and its approach (use examples of Images, Youtube, ...), emphasizing especially the kinds of formative research that was done (if any). Time for this presentation is strictly limited to be below 15 minutes, preferably about 6 Minutes presentation and 6 Minutes of discussion. You are expected to briefly and vividly present the. 
+
+
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/_8ELr6jyrS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 - A message/sign that contains information how to leave a house during an emergency would be considered an ...  
