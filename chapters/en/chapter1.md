@@ -9,7 +9,7 @@ type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Overview and Definitions" type="video">
+<exercise id="1" title="Overview and Definitions" type="video, slides">
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 - A message/sign that contains information how to leave a house during an emergency would be considered an ...  
@@ -32,6 +32,9 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 </opt>
 
 </choice>
+
+<slides source="302_StrategyTheoryResearch">
+</slides>
 
 </exercise>
 
