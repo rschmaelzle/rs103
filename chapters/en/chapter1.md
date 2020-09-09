@@ -55,17 +55,26 @@ If logged in to OneDrive, you will see here a form:
 <exercise id="3" title="Major theoretical camps, types of Health Campaigns, and key goals">
 
 The Health Persuasion Approach
+
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 Social Marketing Approach
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 Psychology/Behavior Change Approaches
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/todo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Exercise (Must be logged in!)
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 
 </exercise>
 
