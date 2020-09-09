@@ -38,7 +38,7 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 
 <exercise id="2" title="History and Current Role" type="video">
 
-</center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/DbFxSvyznDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/DbFxSvyznDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br><br>
 
 If logged in to OneDrive, you will see here a form:
@@ -51,11 +51,11 @@ If logged in to OneDrive, you will see here a form:
 
 The Health Persuasion Approach
 <br><br>
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br><br>
 Social Marketing Approach
 <br><br>
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br><br>
 Psychology/Behavior Change Approaches
 <br><br>
