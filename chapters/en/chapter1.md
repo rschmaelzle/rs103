@@ -9,7 +9,7 @@ type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Overview and Definitions" type="video, slides">
+<exercise id="1" title="Overview and definitions" type="video, slides">
 - Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
