@@ -15,8 +15,8 @@ id: 1
 <p></p>
 
 - Quiz
-<choice>
 A message/sign that contains information how to leave a house during an emergency would be considered an ...  
+<choice>
 <opt text="Awareness message.">
 Awareness messages try, as the name suggests, to raise awareness about an issue that you may otherwise be unaware of. For instance, road signs serve that function, so do awareness weeks about some health issue.
 </opt>
@@ -38,6 +38,7 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
 Zhao, X. (2020). Health communication campaigns: A brief introduction and call ford ialogue. International Journal of Nursing Sciences. https://doi.org/10.1016/j.ijnss.2020.04.009
 <a href = "./slides/test.pdf"> Link to Slides </a>
+
 </exercise>
 
 
@@ -46,8 +47,8 @@ Zhao, X. (2020). Health communication campaigns: A brief introduction and call f
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ng_BFaj8y7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 - Quiz
-<choice>
 Select the most accurate historical timeline for public communication campaign messages (earliest to latest).   
+<choice>
 <opt correct="true" text="Word of mouth, print, radio, television, internet.">
 </opt>
 <opt text="Word of mouth, broadcast public appearances, televised advertisements, televised debatese.">
@@ -87,8 +88,8 @@ Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
 
 
 - Quiz
-<choice>
 You are going on a fishing trip. While buying equipmeent, you receive an information brochure with information about which lake Michigan fish are safe to eat. The source of the pamphlet is the Department of Health and Humans Services, which runs a campaign called "Eat safe fish". This is most likely an example comming from which approach? 
+<choice>
 <opt correct="true" text="Health Persuasion Approach.">
 Yes. While the term health persuasion approach is perhaps a bit narrow, it traditionally grew out of public institutions trying to inform and influence the public. This brochure tries to mainly raise awareness, but in this case this goes hand in hand with an attempt to steer you away from eating potentially contaminated fish.
 </opt>
@@ -125,8 +126,8 @@ West, R., Godinho, C., Bohlen, L., Carey, R., Hastings, J., Lefevre, C., & Michi
 
 
 - Quiz
-<choice>
 The best campaign objectives are written to be broad and inclusive of an entire field in order to incorporate the largest goal possible.
+<choice>
 <opt text="True">
 Although it is great to set goals high, too broad and unspecific goals are bad as they are difficult to operationalize and measure, thereby creating uncertainty about whether you are moving towards the goal.
 </opt>
