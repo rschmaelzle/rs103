@@ -8,7 +8,7 @@ type: chapter
 id: 2
 ---
 
-<exercise id="1" title="Formative research" type="slides,video">
+<exercise id="1" title="Formative research">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ramH82O-4NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
