@@ -12,9 +12,9 @@ id: 2
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ramH82O-4NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
-<p></p>
 According to Noar's ACME article,  it has been found that ...    
 <choice>
 <opt text="most formative research is too expensive compared to its benefits and it can stymie creativity.">
@@ -44,9 +44,9 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/b5oW3L60LR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
-<p></p>
 A Situation Analysis  is 
 <choice>
 <opt correct="true" text="the systematic collection and study of information to identify trends, forces and conditions related to the problem you are trying to solve.">
@@ -65,7 +65,7 @@ A SWOT Analysis is a method under the genneral term situation analysis that exam
 
 ### Literature
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
-promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
+promotion practice. 13(4), 481-8.
 - Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
 
 </exercise>
@@ -75,9 +75,9 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LJaE4F-vzHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
-<p></p>
 A Content Analysis of prior campaign topics is 
 <choice>
 <opt correct="true" text="perhaps and ideal job for an intern to perform.">
@@ -91,9 +91,9 @@ The effort needed for performing such an analysis is actually rather minimal, es
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UN0ZLVEM1TTdWMERGMERZR0hMVFU3U0FZQS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
-- Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
-promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
-- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
+- Dunstone, K., Brennan, E., Slater, M. D., Dixon, H. G., Durkin, S. J., Pettigrew, S., & Wakefield, M. A. (2017). Alcohol harm reduction advertisements: a content analysis of topic, objective, emotional tone, execution and target audience. BMC public health, 17(1), 312.
+- Niederdeppe, J., Avery, R. J., & Miller, E. E. N. (2018). Theoretical Foundations of Appeals Used in Alcohol-Abuse and Drunk-Driving Public Service Announcements in the United States, 1995-2010. American Journal of Health Promotion, 32(4), 887-896.
+- Slater, M. D. (2013). Content analysis as a foundation for programmatic research in communication. Communication methods and measures, 7(2), 85-93.
 
 </exercise>
 
@@ -116,16 +116,12 @@ Audience Variables - Receiver Characteristics
 <p></p>
 The core idea behind Audience Analysis is 
 <choice>
-<opt correct="true" text="that communication can be optimized by adapting the message to audience.">
+<opt correct="true" text="that communication can be optimized by adapting the message to an audience consisting of a homogenous group of people who overlap in terms of relevant characteristics.">
 Audience analysis involves gathering and interpreting information about the recipients. The goal is to use this information to craft a more effective message and deliver it with higher precision.</opt>
-<opt  text="that it let's you find out the weak points (pressure points) of the audience so you can exploit it.">
+<opt  text="that it let's you find out the weak points (pressure points) of the audience so you can exploit it by talking to maximally heterogeneous groups that don't overlap in terms of relevant characteristics">
 Since the public health communication situation does not usually take place in a combative setting, knowing a pressure point is of little use. Audience analysis is a broader concept that helps you understand the audience to create a profile of their knowledge, attitudes, habits, whom they are listening to and when. </opt>
 </choice>
-The goal of Audience Segmentation is 
-<choice>
-<opt correct="true" text="to create homogenous groups that overlap in terms of relevant characteristics."></opt>
-<opt  text="to create heterogeneous groups that don't overlap in terms of relevant characteristics."></opt>
-</choice>
+
 
 ### Reflection 
 (must be logged in)
