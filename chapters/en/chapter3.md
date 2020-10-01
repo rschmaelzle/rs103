@@ -91,35 +91,204 @@ Focus groups produce qualitative data, i.e. interpretations, statements, or reac
 
 
 <exercise id="4" title="Hornik-Woolf Method">
-under construction
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Hornik, R., & Woolf, K. D. (1999). Using cross-sectional surveys to plan message strategies. Social Marketing Quarterly, 5(2), 34-41.
+- Yzer, M. (2012). The integrative model of behavioral prediction as a tool for designing health messages. In. Cho, H. Health communication message design: Theory and practice.
+
 </exercise>
 
 
 <exercise id="5" title="Optimizing language">
-under construction
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Flesch, R. (1946). The art of plain talk. New York, NY: Harper & Row.
+- Kincaid, J. P., Fishburne, R. P., Rogers, R. L., & Chissom, B. S. (1975). Derivation of new readability formulas (Automated Readability Index, Fog Count, and Flesch Reading Ease Formula) for Navy enlisted personnel. Research Branch Report 8-75. Millington, TN: Naval Air Station Memphis
+
 </exercise>
 
 
 <exercise id="6" title="Pretesting messages using survey-methods">
-PME, AS, ...
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Zhao, X., Strasser, A., Cappella, J. N., Lerman, C., & Fishbein, M. (2011). A measure of perceived argument strength: Reliability and validity. Communication methods and measures, 5(1), 48-75.
+- Dillard JP, Weber KM, Vail RG. The relationship between the perceived and actual effectiveness of persuasive messages: A meta-analysis with implications for formative campaign research. Journal of Communication. 2007;57:613–631. 
+
 </exercise>
 
 
 <exercise id="7" title="Pretesting messages using biobehavioral methods">
-eyetracking, neuroscience, psychophys
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Imhof, M. A., Schmälzle, R., Renner, B., & Schupp, H. T.. (2020). Strong health messages increase audience brain coupling. NeuroImage, 216, 116527.
+- Kranzler, E. C., Schmälzle, R., O’Donnell, M. B., Pei, R., & Falk, E. B.. (2019). Adolescent neural responses to antismoking messages, perceived effectiveness, and sharing intention. Media Psychology, 22(2), 323–349.
+- Lochbuehler, K., Tang, K. Z., Souprountchouk, V., Campetti, D., Cappella, J. N., Kozlowski, L. T., & Strasser, A. A. (2016). Using eye-tracking to examine how embedding risk corrective statements improves cigarette risk beliefs: implications for tobacco regulatory policy. Drug and alcohol dependence, 164, 97-105.
+
 </exercise>
 
 
 <exercise id="8" title="Examining messages on Social Media">
-under construction
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Chu, K. H., Unger, J. B., Allem, J. P., Pattarroyo, M., Soto, D., Cruz, T. B., ... & Yang, C. C. (2015). Diffusion of messages from an electronic cigarette brand to potential users through Twitter. PloS one, 10(12), e0145387.
+- Shi, J., Poorisat, T., & Salmon, C. T. (2018). The use of social networking sites (SNSs) in health communication campaigns: review and recommendations. Health communication, 33(1), 49-56.
+
 </exercise>
 
 
 <exercise id="9" title="Modern Tools: AB Testing & Recommender Systems" type="slides,video">
-under construction
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Kim, H. S., Yang, S., Kim, M., Hemenway, B., Ungar, L., & Cappella, J. N. (2019). An experimental study of recommendation algorithms for tailored health communication. Computational Communication Research, 1(1), 103-129.
+- Chua, P. Y., Liang, A., Kok, Y., & He, R. (2017). Can ShortWarning Messages Reduce Speeding Behaviour? Insights from A/B Testing. European Scientific Journal, ESJ, 13(5), 494. https://doi.org/10.19044/esj.2017.v13n5p494
+
 </exercise>
 
 
 <exercise id="10" title="AI message generation" type="slides,video">
-under construction
+
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
