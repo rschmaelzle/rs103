@@ -58,7 +58,7 @@ Although it is true that the internet has provided us with many alternative meth
 </exercise>
 
 
-<exercise id="2" title="Focus Groups">
+<exercise id="3" title="Focus Groups">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/3TwgVQIZPsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -90,36 +90,36 @@ Focus groups produce qualitative data, i.e. interpretations, statements, or reac
 </exercise>
 
 
-<exercise id="2" title="Hornik-Woolf Method">
+<exercise id="4" title="Hornik-Woolf Method">
 under construction
 </exercise>
 
 
-<exercise id="3" title="Optimizing language">
+<exercise id="5" title="Optimizing language">
 under construction
 </exercise>
 
 
-<exercise id="4" title="Pretesting messages using survey-methods">
+<exercise id="6" title="Pretesting messages using survey-methods">
 PME, AS, ...
 </exercise>
 
 
-<exercise id="5" title="Pretesting messages using biobehavioral methods">
+<exercise id="7" title="Pretesting messages using biobehavioral methods">
 eyetracking, neuroscience, psychophys
 </exercise>
 
 
-<exercise id="6" title="Examining messages on Social Media">
+<exercise id="8" title="Examining messages on Social Media">
 under construction
 </exercise>
 
 
-<exercise id="7" title="Modern Tools: AB Testing & Recommender Systems" type="slides,video">
+<exercise id="9" title="Modern Tools: AB Testing & Recommender Systems" type="slides,video">
 under construction
 </exercise>
 
 
-<exercise id="8" title="AI message generation" type="slides,video">
+<exercise id="10" title="AI message generation" type="slides,video">
 under construction
 </exercise>
