@@ -1,13 +1,12 @@
 ---
-title: 'Chapter 3: Specific Methods'
+title: 'Chapter 3: Formative Research: Methods and Skills'
 description:
-  "This chapter will introduce you to specific methods that you can use to understand and analyze audiences and messages."
+"This chapter will introduce you to specific methods that you can use to understand and analyze audiences and messages. We'll cover time-proven methods like Focus Groups and Surveys to understand what audiences know, think and feel about topics, and which messages are promising. Increasingly, social media based research methods are used to gain insight into audience knowledge and sentiment about health topics, tracking how messages diffuse over social networks, and which users are most influential. We will also cover cognitive and neuroscientific approaches to message testing (eyetracking, psychophysiology, neural measures, reaction times and message evaluations). Finally, we will discuss recent trends like AI-message generation (aka Bots), user-generated content, A/B-testing, and recommender systems."
 prev: /chapter2
 next: /
 type: chapter
 id: 3
 ---
-
 
 <exercise id="1" title="Introduction to the Formative Research Project">
 
