@@ -235,7 +235,7 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="9" title="Modern Tools: AB Testing & Recommender Systems" type="slides,video">
+<exercise id="9" title="Modern Tools: AB Testing & Recommender Systems">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -264,7 +264,7 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="10" title="AI message generation" type="slides,video">
+<exercise id="10" title="AI message generation">
 
 
 ### Video
