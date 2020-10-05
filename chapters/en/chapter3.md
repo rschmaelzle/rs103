@@ -92,33 +92,62 @@ Focus groups produce qualitative data, i.e. interpretations, statements, or reac
 <exercise id="4" title="Hornik-Woolf Method">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zPCcP1NgqSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Question text? 
+According to the Hornik-Woolf-Method, the most promising message strategy ... 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="is centered around a belief that is relatively strongly associated with the target behavior (promise), but not yet already held by many people (potential to move many if they adopt the belief), and amenable to communication (feasibility).">
+If 85% of the population already belief that e.g. smoking does harm, it may not be as promising to try to convince the remaining 15% since a) it isn't that many and b) they might be resistant to change anyway since they haven't been influenced by the evidence that convinced the 85%..
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="is the one that focus groups identify unanimously as the top candidate.">
+Focus groups can be a tool in the Hornik-Woolf approach, but they would serve the purpose of candidate belief elicitation. The method demands a second step .</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMk9POE5UVjc5V0hQWTkzNVA1SEVYM09ETC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
 - Hornik, R., & Woolf, K. D. (1999). Using cross-sectional surveys to plan message strategies. Social Marketing Quarterly, 5(2), 34-41.
 - Yzer, M. (2012). The integrative model of behavioral prediction as a tool for designing health messages. In. Cho, H. Health communication message design: Theory and practice.
+- Hornik, R. C., Volinsky, A. C., Mannis, S., Gibson, L. A., Brennan, E., Lee, S. J., & Tan, A. S. (2019). Validating the Hornik & Woolf approach to choosing media campaign themes: Do promising beliefs predict behavior change in a longitudinal study?. Communication methods and measures, 13(1), 60-68.
 
 </exercise>
 
 
-<exercise id="5" title="Optimizing language">
+<exercise id="5" title="Audience Segmentation: Cluster Analysis">
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/RDzU1gPUe-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+The goal of audience segmenation is to 
+<choice>
+<opt correct="true" text="create maximally homogenous segments of people who share key characteristics with other group members, but don't overlap with all other people in these characteristics."></opt>
+<opt text="To create maximally heterogeneous groups that overlap."></opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTBXTlpKTFlURjMyTEk4TExTVFZINEsxRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
+
+### Literature
+- Chryst, B., Marlon, J., van der Linden, S., Leiserowitz, A., Maibach, E., & Roser-Renouf, C. (2018). Global warming’s “Six Americas Short Survey”: Audience segmentation of climate change views using a four question instrument. Environmental Communication, 12(8), 1109-1122.
+- Slater, M. D. (1996). Theory and method in health audience segmentation. Journal of health communication, 1(3), 267-284.
+- Slater, M. D., Kelly, K. J., & Thackeray, R. (2006). Segmentation on a shoestring: Health audience segmentation in limited-budget and local social marketing interventions. Health promotion practice, 7(2), 170-173.
+- Mathijssen, J., Kuiper, S., & Janssen, M. (2017). Young adults and alcohol: An explorative audience segmentation analysis. In Segmentation in Social Marketing (pp. 161-177). Springer, Singapore.
+
+</exercise>
+
+
+<exercise id="6" title="Optimizing language">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -147,7 +176,7 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="6" title="Pretesting messages using survey-methods">
+<exercise id="7" title="Pretesting messages using survey-methods: Perceived Effectiveness & Argument Strenght">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -176,7 +205,7 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="7" title="Pretesting messages using biobehavioral methods">
+<exercise id="8" title="Pretesting messages using biobehavioral methods">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -206,7 +235,7 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="8" title="Examining messages on Social Media">
+<exercise id="9" title="Examining messages on Social Media">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -235,7 +264,7 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="9" title="Modern Tools: AB Testing & Recommender Systems">
+<exercise id="10" title="Modern Tools: AB Testing & Recommender Systems">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -264,7 +293,7 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="10" title="AI message generation">
+<exercise id="11" title="AI message generation">
 
 
 ### Video
