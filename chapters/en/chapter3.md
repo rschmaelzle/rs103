@@ -150,23 +150,23 @@ The goal of audience segmenation is to
 <exercise id="6" title="Optimizing language">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XxLm4g2AZF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Question text? 
+In the Flesch reading-ease test, higher scores indicate material that is easier to read. 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="Correct.">
+This is correct. One simple project could be to examine the readability of Wikipedia articles about health, trying to identify differences between topics. A similar study has been done, finding that e.g. sports figures have easier Wikipedia articles compared to Philosophers.
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="Wrong.">
+For the Flesch score, higher numbers mean easier texxt. The "Flesch–Kincaid Grade Level Formula" instead presents a score as a U.S. grade level, making it easier for teachers, parents, librarians, and others to judge the readability level of various books and texts.</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOUtPS05FV1YxQzVKNTQ4VkxTNEVZNkM3RS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -176,31 +176,34 @@ Wrong answer explanation.</opt>
 </exercise>
 
 
-<exercise id="7" title="Pretesting messages using survey-methods: Perceived Effectiveness & Argument Strenght">
+<exercise id="7" title="Pretesting messages using survey-methods: Perceived Effectiveness & Argument Strength">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Wa73r6USo24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Question text? 
+Target audience ratings of the likely impact of persuasive messages are commonly used during message development and selection. A few relevant rating scales for such measures are
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="PME, PAS, PMSV.">
+Perceived Message Effectiveness, Perceived Argument Strength, Perceived Message Sensation Value.
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="AE, ELM, Convincingness">
+Nope, these abbreviations refer to Actual Effectiveness and the Elaboration Likelihood Model.</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNFIxU01HT0wwWlpLM0M4Uk9SQ1c5STBUQi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
 - Zhao, X., Strasser, A., Cappella, J. N., Lerman, C., & Fishbein, M. (2011). A measure of perceived argument strength: Reliability and validity. Communication methods and measures, 5(1), 48-75.
 - Dillard JP, Weber KM, Vail RG. The relationship between the perceived and actual effectiveness of persuasive messages: A meta-analysis with implications for formative campaign research. Journal of Communication. 2007;57:613–631. 
+- Noar, S. M., Palmgreen, P., Zimmerman, R. S., Lustria, M. L. A., & Lu, H. Y. (2010). Assessing the relationship between perceived message sensation value and perceived message effectiveness: Analysis of PSAs from an effective campaign. Communication Studies, 61(1), 21-45.
+- Yzer, M., LoRusso, S., & Nagler, R. H. (2015). On the conceptual ambiguity surrounding perceived message effectiveness. Health communication, 30(2), 125-134.
+- Suka, M., Yamauchi, T., & Yanagisawa, H. (2017). Perceived effectiveness rating scales applied to insomnia help-seeking messages for middle-aged Japanese people: a validity and reliability study. Environmental health and preventive medicine, 22(1), 69.
 
 </exercise>
 
