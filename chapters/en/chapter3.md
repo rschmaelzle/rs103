@@ -218,23 +218,23 @@ Nope, these abbreviations refer to Actual Effectiveness and the Elaboration Like
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed//lErrZrW0Vv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 #### Psychophysiology
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/N0wss0bEbwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XcqDvZRe50w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Question text? 
+Benefits of psychophysiological methods are that they
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="are not easy to fake, provide over-time data (process-based), and may capture responses that people may be unable to report.">
+Well done!
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="give a readout of unconscious processes and can map many psychological processes in a 1:1 fashion.">
+It is true that psychophysiological measures are often influenced by unconscious processes. However, the relationship between mental processes and activities of the heart, the skin, and the skeletomotor system is complex (e.g. many different psychological processes can lead to a heart rate acceleration and thus observing a heart rate acceleration in response to a message feature can reflect different psychological processes).</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNUtUVURLTjlIMDk3UzlSVVUzRFNIRzhGTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -243,6 +243,7 @@ Wrong answer explanation.</opt>
 - Lochbuehler, K., Tang, K. Z., Souprountchouk, V., Campetti, D., Cappella, J. N., Kozlowski, L. T., & Strasser, A. A. (2016). Using eye-tracking to examine how embedding risk corrective statements improves cigarette risk beliefs: implications for tobacco regulatory policy. Drug and alcohol dependence, 164, 97-105.
 - Meernik, C., Jarman, K., Wright, S. T., Klein, E. G., Goldstein, A. O., & Ranney, L. (2016). Eye tracking outcomes in tobacco control regulation and communication: a systematic review. Tobacco regulatory science, 2(4), 377-403.
 - Sanders-Jackson, A., Clayton, R. B., Tan, A. S., & Yie, K. (2019). Testing the Effect of Vapor in ENDS Public Service Announcements on Current Smokers and ENDS Users’ Psychophysiological Responses and Smoking and Vaping Urge. Journal of health communication, 24(4), 413-421.
+- Howell, M., Ekman, D. S., Almond, A., & Bolls, P. (2018). Switched on: How the timing of aversive content in traffic safety videos impact psychophysiological indicators of message processing. Health communication. 34(13):1663-1672.
 
 </exercise>
 
