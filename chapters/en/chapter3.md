@@ -286,6 +286,9 @@ The right answer is EDGE.</opt>
 This is Netlogo (https://ccl.northwestern.edu/netlogo) simulation of a Virus on a Network. Click setup to set up the simulation, and then go to run it. What do you observe? If you change the degree-slider, set up anoter simulation, and run it, what will happen?
 <center><iframe width="860" height="800" src="https://www.ralfschmaelzle.net/dynamic_annotations/VirusOnANetwork.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
+Here are links to the Google Collab Notebooks. Download them and move them to your google drive. If you have installed the Collab tool (https://colab.research.google.com/), you can open and run these notebooks very easily.
+- <a href = "./slides/Sentiment.ipynb"> Network Analysis </a>
+- <a href = "./slides/SocialNetworkIntro01.ipynb"> Network Analysis </a>
 
 
 ### Reflection 
@@ -296,8 +299,9 @@ This is Netlogo (https://ccl.northwestern.edu/netlogo) simulation of a Virus on 
 ### Literature
 - Chu, K. H., Unger, J. B., Allem, J. P., Pattarroyo, M., Soto, D., Cruz, T. B., & Yang, C. C. (2015). Diffusion of messages from an electronic cigarette brand to potential users through Twitter. PloS one, 10(12), e0145387.
 - Shi, J., Poorisat, T., & Salmon, C. T. (2018). The use of social networking sites (SNSs) in health communication campaigns: review and recommendations. Health communication, 33(1), 49-56.
-- Text as Data
-- Sentiment Analysis
+- Gentzkow, M., Kelly, B., & Taddy, M. (2019). Text as data. Journal of Economic Literature, 57(3), 535-74.
+- Kang, G. J., Ewing-Nelson, S. R., Mackey, L., Schlitt, J. T., Marathe, A., Abbas, K. M., & Swarup, S. (2017). Semantic network analysis of vaccine sentiment in online social media. Vaccine, 35(29), 3621-3638.
+
 
 </exercise>
 
