@@ -248,31 +248,56 @@ It is true that psychophysiological measures are often influenced by unconscious
 </exercise>
 
 
-<exercise id="9" title="Examining messages on Social Media">
+<exercise id="9" title="Examining messages on Social Media: Network and Text Analysis">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+Introduction: Social Networks & Social Media
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5tr-_5cODso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+Social Network Analysis 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Vx8TaT-wMI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+Demo:
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZU3awUAhLfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+Demo: ABM
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ijjGwcB_Qk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+Sentiment Analysis
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7c_mQXUlPqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
+
 ### Quiz
-Question text? 
+A … is a connection between two nodes. 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt text="path">
+The right answer is EDGE.</opt>
+<opt text="weight">
+The right answer is EDGE.</opt>
+<opt correct="true" text="edge">
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="degree">
+The right answer is EDGE.</opt>
 </choice>
+
+
+### Simulation
+This is Netlogo (https://ccl.northwestern.edu/netlogo) simulation of a Virus on a Network. Click setup to set up the simulation, and then go to run it. What do you observe? If you change the degree-slider, set up anoter simulation, and run it, what will happen?
+<center><iframe width="860" height="800" src="https://www.ralfschmaelzle.net/dynamic_annotations/VirusOnANetwork.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkoyMFFIMEpTU0xRMVM3REZXQzk2NE9EQS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
-- Chu, K. H., Unger, J. B., Allem, J. P., Pattarroyo, M., Soto, D., Cruz, T. B., ... & Yang, C. C. (2015). Diffusion of messages from an electronic cigarette brand to potential users through Twitter. PloS one, 10(12), e0145387.
+- Chu, K. H., Unger, J. B., Allem, J. P., Pattarroyo, M., Soto, D., Cruz, T. B., & Yang, C. C. (2015). Diffusion of messages from an electronic cigarette brand to potential users through Twitter. PloS one, 10(12), e0145387.
 - Shi, J., Poorisat, T., & Salmon, C. T. (2018). The use of social networking sites (SNSs) in health communication campaigns: review and recommendations. Health communication, 33(1), 49-56.
+- Text as Data
+- Sentiment Analysis
 
 </exercise>
 
