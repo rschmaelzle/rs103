@@ -172,6 +172,7 @@ For the Flesch score, higher numbers mean easier texxt. The "Flesch–Kincaid Gr
 ### Literature
 - Flesch, R. (1946). The art of plain talk. New York, NY: Harper & Row.
 - Kincaid, J. P., Fishburne, R. P., Rogers, R. L., & Chissom, B. S. (1975). Derivation of new readability formulas (Automated Readability Index, Fog Count, and Flesch Reading Ease Formula) for Navy enlisted personnel. Research Branch Report 8-75. Millington, TN: Naval Air Station Memphis
+- plainlanguage.gov
 
 </exercise>
 
