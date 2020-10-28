@@ -302,6 +302,8 @@ Here are links to the Google Collab Notebooks. Download them and move them to yo
 - Shi, J., Poorisat, T., & Salmon, C. T. (2018). The use of social networking sites (SNSs) in health communication campaigns: review and recommendations. Health communication, 33(1), 49-56.
 - Gentzkow, M., Kelly, B., & Taddy, M. (2019). Text as data. Journal of Economic Literature, 57(3), 535-74.
 - Kang, G. J., Ewing-Nelson, S. R., Mackey, L., Schlitt, J. T., Marathe, A., Abbas, K. M., & Swarup, S. (2017). Semantic network analysis of vaccine sentiment in online social media. Vaccine, 35(29), 3621-3638.
+- Wang, X., Chen, L., Shi, J., & Peng, T. Q. (2019). What makes cancer information viral on social media?. Computers in Human Behavior, 93, 149-156.
+- Perrault, E. K., Hildenbrand, G. M., McCullock, S. P., Schmitz, K. J., & Dolick, K. N. (2019). Hashtag health: College health on social media and students’ motivations to follow, interact, and share their social media content. Health promotion practice, 20(5), 721-729.
 
 
 </exercise>
@@ -310,28 +312,35 @@ Here are links to the Google Collab Notebooks. Download them and move them to yo
 <exercise id="10" title="Modern Tools: AB Testing & Recommender Systems">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+A/B Testing
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5j2w6vJja_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+Recommendation Systems
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/v6xyO0S1rWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Question text? 
+Can you run A/B tests on things other than the design elements of webpages?
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="Yes.">
+You can test email messages (subject line, personalization, link-texts,, sms/texts, or calls-to-action.
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="No.">
+You can experiment with anything that can be varied, such as emails, sms/texts, or even the wording of interpersonal speech.</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNVJSMlVKNVdaNzBDS1c4OFNMNTY0MU9TTi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
 - Kim, H. S., Yang, S., Kim, M., Hemenway, B., Ungar, L., & Cappella, J. N. (2019). An experimental study of recommendation algorithms for tailored health communication. Computational Communication Research, 1(1), 103-129.
 - Chua, P. Y., Liang, A., Kok, Y., & He, R. (2017). Can ShortWarning Messages Reduce Speeding Behaviour? Insights from A/B Testing. European Scientific Journal, ESJ, 13(5), 494. https://doi.org/10.19044/esj.2017.v13n5p494
+- Kohavi, R., Longbotham, R., Sommerfield, D., & Henne, R. M. (2009). Controlled experiments on the web: survey and practical guide. Data mining and knowledge discovery, 18(1), 140-181.
+- Kohavi, R., & Thomke, S. (2017). The Surprising Power of Online Experiments: Getting the Most Out of A/B and Other Controlled Tests. Harvard Business Review 95, no. 5 (September–October 2017): 74–82.
+- Adomavicius, G., Bockstedt, J., Curley, S. P., Zhang, J., & Ransbotham, S. (2019). The hidden side effects of recommendation systems. MIT Sloan Management Review, 60(2), 1.
 
 </exercise>
 
