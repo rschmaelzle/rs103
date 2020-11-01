@@ -349,26 +349,28 @@ You can experiment with anything that can be varied, such as emails, sms/texts, 
 
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/i9jano6OfXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Question text? 
+Modern language models have gotten very good at generating text. So good that they are now indistinguishable from human-created communication. 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="False.">
+Language models are fantastic at generating language when the task is to e.g. complete a sentence, summarize a paragraph, or generate possible next sentences, they are limited in actually generating coherent text that stays on topic, or considers other aspects of human communication that are easy for humans, but still hard for machines (e.g. common sense background knowledge, understanding intent, etc.).
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="True.">
+Although the fluency and style of the language models has become uncannily good and it gives me pain to realize that they are probably creating better language than I am able to, the capabilities of language models are limited in many ways. The most obvious limitation is that they are basically paraphrasing their input data, without any deeper knowledge or understanding.</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzZKODVEQ0MwQUNDT1E5RTdHTElNSkNKVS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
 - Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+- https://github.com/openai/gpt-2/
+- https://github.com/minimaxir/gpt-2-simple
 
 </exercise>
