@@ -354,6 +354,9 @@ You can experiment with anything that can be varied, such as emails, sms/texts, 
 How I write my formative research project
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UBMXU8FM5yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
+Update on article schema/instructions/rubric
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed//H60wTzxUqgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
 Modern language models have gotten very good at generating text. So good that they are now indistinguishable from human-created communication. 
