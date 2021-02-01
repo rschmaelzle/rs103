@@ -11,7 +11,7 @@ id: 3
 <exercise id="1" title="Introduction to the Formative Research Project">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/QL9YL3QN9tI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Writing Tips
@@ -19,7 +19,7 @@ id: 3
 <p></p>
 
 ### Provisional Common Document
-<a href="https://michiganstate-my.sharepoint.com/:w:/g/personal/schmaelz_msu_edu/ETaCdxbTU0xFg2troLL3QloBOL--6hQ16HxL-hp3ZlmfUQ?e=UF1bfa"> Link to our common Document</a>
+<a href="xxx"> Link to our common Document</a>
 
 </exercise>
 
@@ -45,7 +45,7 @@ Although it is true that the internet has provided us with many alternative meth
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMzA4VEY0TkJTNDlWWEozRUxXT0xDMlJMMi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center>TODO</center>
 
 
 ### Literature
@@ -60,7 +60,7 @@ Although it is true that the internet has provided us with many alternative meth
 <exercise id="3" title="Focus Groups">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3TwgVQIZPsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -77,7 +77,7 @@ Focus groups produce qualitative data, i.e. interpretations, statements, or reac
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQVRSVjU2U0hSQTRBNkpTVzVCNE9aVlRMWC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center></center>
 
 
 ### Literature
@@ -92,7 +92,7 @@ Focus groups produce qualitative data, i.e. interpretations, statements, or reac
 <exercise id="4" title="Hornik-Woolf Method">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zPCcP1NgqSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -108,7 +108,7 @@ Focus groups can be a tool in the Hornik-Woolf approach, but they would serve th
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMk9POE5UVjc5V0hQWTkzNVA1SEVYM09ETC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center></center>
 
 
 ### Literature
@@ -122,7 +122,7 @@ Focus groups can be a tool in the Hornik-Woolf approach, but they would serve th
 <exercise id="5" title="Audience Segmentation: Cluster Analysis">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/RDzU1gPUe-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -135,7 +135,7 @@ The goal of audience segmenation is to
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTBXTlpKTFlURjMyTEk4TExTVFZINEsxRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center> </center>
 
 
 ### Literature
@@ -150,7 +150,7 @@ The goal of audience segmenation is to
 <exercise id="6" title="Optimizing language">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XxLm4g2AZF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -166,7 +166,7 @@ For the Flesch score, higher numbers mean easier texxt. The "Flesch–Kincaid Gr
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOUtPS05FV1YxQzVKNTQ4VkxTNEVZNkM3RS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center> </center>
 
 
 ### Literature
@@ -180,7 +180,7 @@ For the Flesch score, higher numbers mean easier texxt. The "Flesch–Kincaid Gr
 <exercise id="7" title="Pretesting messages using survey-methods: Perceived Effectiveness & Argument Strength">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Wa73r6USo24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -196,7 +196,7 @@ Nope, these abbreviations refer to Actual Effectiveness and the Elaboration Like
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNFIxU01HT0wwWlpLM0M4Uk9SQ1c5STBUQi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center> </center>
 
 
 ### Literature
@@ -213,13 +213,13 @@ Nope, these abbreviations refer to Actual Effectiveness and the Elaboration Like
 
 ### Video
 #### Eyetracking
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/N0wss0bEbwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 #### Neuroimaging
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed//lErrZrW0Vv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed//bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 #### Psychophysiology
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XcqDvZRe50w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -235,7 +235,7 @@ It is true that psychophysiological measures are often influenced by unconscious
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNUtUVURLTjlIMDk3UzlSVVUzRFNIRzhGTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center> </center>
 
 
 ### Literature
@@ -253,19 +253,19 @@ It is true that psychophysiological measures are often influenced by unconscious
 
 ### Video
 Introduction: Social Networks & Social Media
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5tr-_5cODso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Social Network Analysis 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Vx8TaT-wMI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Demo:
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZU3awUAhLfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Demo: ABM
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ijjGwcB_Qk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Sentiment Analysis
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7c_mQXUlPqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 
@@ -294,7 +294,7 @@ Here are links to the Google Collab Notebooks. Download them and move them to yo
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkoyMFFIMEpTU0xRMVM3REZXQzk2NE9EQS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center>  </center>
 
 
 ### Literature
@@ -313,10 +313,10 @@ Here are links to the Google Collab Notebooks. Download them and move them to yo
 
 ### Video
 A/B Testing
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5j2w6vJja_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Recommendation Systems
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/v6xyO0S1rWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -332,7 +332,7 @@ You can experiment with anything that can be varied, such as emails, sms/texts, 
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNVJSMlVKNVdaNzBDS1c4OFNMNTY0MU9TTi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center>  </center>
 
 
 ### Literature
@@ -349,13 +349,13 @@ You can experiment with anything that can be varied, such as emails, sms/texts, 
 
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/i9jano6OfXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 How I write my formative research project
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UBMXU8FM5yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Update on article schema/instructions/rubric
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed//H60wTzxUqgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -371,7 +371,7 @@ Although the fluency and style of the language models has become uncannily good 
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzZKODVEQ0MwQUNDT1E5RTdHTElNSkNKVS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center> </center>
 
 
 ### Literature
