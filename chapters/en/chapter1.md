@@ -31,7 +31,7 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 
 - Reflection (must be logged in)
 (If you are logged in to OneDrive, you will see a form. If you are not logged in, please follow the instructions and then fill out the form!
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URjJTRUtaUUtQRVJSRjUxSE9GRlc5S0FTMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMFhGNE5XSUlQTTQ1R1lMR0tCWUs4QklPNy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 - Literature
 <p></p>
@@ -65,7 +65,7 @@ Select the most accurate historical timeline for public communication campaign m
 </choice>
 
 - Reflection
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNkVXRTg4TlRLUkFSQkg4OVI1WU84WVdDTy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 - Literature
 <p></p>
@@ -109,7 +109,7 @@ An intervention would be much more focused on individuals, for instance, a smoki
 </choice>
 
 - Reflection
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNEFISExRNDBFWFpJWUtaUFgyNkg0S0dGRC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 - Bonus: Behavior Change Taxonomy App
 
@@ -149,7 +149,7 @@ Right, broad goals are often a problem. Goals should be SMART - Specific Measure
 
 - CommLibs Exercise 
 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMlBKRzZZVjBVTUdDQlpXMDQzMVoxOTM4Mi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URVU1NVVHSDRPU0tMVFBHU1dFODU4QldOWi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 - Literature
 <p></p>
@@ -161,18 +161,10 @@ Ordoñez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). G
 
 <exercise id="5" title="Instructions for the course"  type="video">
 
-Congratulations to completing the first chapter. The goal of this chapter was to bring everyone on more or less the same page, providing common ground and cover the minimal basics of the health campaign business. From here on, we will no longer focus on these big-picture topics, but learn very concrete methods that we can use to optimize messages. 
-<p></p>
-I have two more points:
-<p></p> First, please fill out the form below to provide me with some sense of who you are, why you are taking this course, and how I can make this work well for you. Thank you!
-<p></p>
-Second, I want to give you an outline and a reminder of how this course is intended to work: 
-- D2L and this site provide content - you can chose which works better for you. I personally find  this site better designed and easier to stay on top. You can also find readings online. The reference list provide you with a starting point, but you are welcome to read much more and bring it up in class. I highly encourage you to do readings on your own!
-- In terms of meetings, we will in some weeks meet online and in others I will mainly post prerecorded content. I will let you know via email if we do not need to meet for discussions! Regardless of official meetings with the whole class, I will always be available during the scheduled class time for check-ins.
-- In terms of the points that make up the grade, the detailed breakup is in the syllabus: First, you need to fill out the forms to receive quiz-points, which are the online-equivalent of attendance points. Second, you need to sign up for the campaign of the day and give a presentation. You can prerecord that presentation! Third, we will have an exam at the end of the course. The exam questions will be very similar to the quiz/form/reflection questions that your will complete throughout the course. Lastly, you will work on your own formative research project. Details on this will be provided in the next chapter.
+Congratulations to completing the first chapter. The goal of this chapter was to bring everyone on more or less the same page, providing common ground and cover the minimal basics of the health campaign business. The next chapter will give an introduction focused more on formative research (what it is, why it is done, what it consists of). From here on, we will no longer focus on these big-picture topics, but learn very concrete methods that we can use to optimize messages. 
+
 <p></p>
 Thank you! I am looking forward to getting to know you better and hearing your feedback !
-<p></p>
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
 
 </exercise>
