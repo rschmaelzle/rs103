@@ -11,7 +11,7 @@ id: 1
 
 <exercise id="1" title="Overview and definitions">
 - Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XNnvVahpmss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 - Quiz
@@ -45,8 +45,7 @@ Zhao, X. (2020). Health communication campaigns: A brief introduction and call f
 
 
 <exercise id="2" title="Health communication across the ages" type="video">
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ng_BFaj8y7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xE1GMJl1b4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p></p>
 - Quiz
@@ -80,17 +79,17 @@ Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
 
 - The Health Persuasion Approach
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/W2HsNxkyyPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 - Social Marketing Approach
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nIOt_8TOGco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 - Psychology/Behavior Change Approaches
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Q9T2x5aO_w0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p></p>
 - Quiz
@@ -113,7 +112,7 @@ An intervention would be much more focused on individuals, for instance, a smoki
 
 - Bonus: Behavior Change Taxonomy App
 
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//SzDSVx6gY0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/74cWx6vcoz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p></p>
 - Literature
@@ -130,7 +129,7 @@ West, R., Godinho, C., Bohlen, L., Carey, R., Hastings, J., Lefevre, C., & Michi
 
 <exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
   
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ijZipUhwLVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/4mqcq52nJK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 
