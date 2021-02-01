@@ -11,7 +11,7 @@ id: 2
 <exercise id="1" title="Formative research">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ramH82O-4NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TJMDR3em4Ks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -43,7 +43,7 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 <exercise id="2" title="Situation analysis">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/b5oW3L60LR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DFVj7ZTk4vE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -74,7 +74,7 @@ promotion practice. 13(4), 481-8.
 <exercise id="3" title="Previous campaign analysis">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LJaE4F-vzHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XO1lBWIGiCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -103,13 +103,13 @@ The effort needed for performing such an analysis is actually rather minimal, es
 
 ### Video
 Audience Analysis
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/n6GGCzDDyZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sD18zSfi5DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Audience Segmentation
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7r4jRtTxjP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/g5ub5eyNOmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Audience Variables - Receiver Characteristics
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ts_C3z6S9I4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nWjhC1jQp-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 ### Quiz
