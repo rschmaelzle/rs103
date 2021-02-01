@@ -15,11 +15,11 @@ id: 3
 <p></p>
 
 ### Writing Tips
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/IcM0MzByjlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Provisional Common Document
-<a href="xxx"> Link to our common Document</a>
+<a href="xxx"> Following - Link to our common Document</a>
 
 </exercise>
 
@@ -45,7 +45,7 @@ Although it is true that the internet has provided us with many alternative meth
 
 ### Reflection 
 (must be logged in)
-<center>TODO</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNk9UTE1UMDFUUzVKTUM5M000MzFTM1ZWNC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -77,7 +77,7 @@ Focus groups produce qualitative data, i.e. interpretations, statements, or reac
 
 ### Reflection 
 (must be logged in)
-<center></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOFBYMkZPQlNFQk82SVI3WDY0VjI0STBIVi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -108,7 +108,7 @@ Focus groups can be a tool in the Hornik-Woolf approach, but they would serve th
 
 ### Reflection 
 (must be logged in)
-<center></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNldZTFBQTTdVSTUwOTNQT1JPMVQyQjY5Ni4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -135,7 +135,7 @@ The goal of audience segmenation is to
 
 ### Reflection 
 (must be logged in)
-<center> </center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMzhUWk9MV1pZOUE4UEVYUk1GTzVHNzJORi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -166,7 +166,7 @@ For the Flesch score, higher numbers mean easier texxt. The "Flesch–Kincaid Gr
 
 ### Reflection 
 (must be logged in)
-<center> </center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQU4yUDZQOTUzQ0U3RE1SNFEwODlGUFRGSy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -196,7 +196,7 @@ Nope, these abbreviations refer to Actual Effectiveness and the Elaboration Like
 
 ### Reflection 
 (must be logged in)
-<center> </center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzZFREE3OTY0NlBIQ1hXWERHSzZZMldZUS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -235,7 +235,7 @@ It is true that psychophysiological measures are often influenced by unconscious
 
 ### Reflection 
 (must be logged in)
-<center> </center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNDhPSjRFV01SSzNJSkZSTDEwREpFRElPSS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -294,7 +294,7 @@ Here are links to the Google Collab Notebooks. Download them and move them to yo
 
 ### Reflection 
 (must be logged in)
-<center>  </center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTBaQUFGUEZRWkhMU0VET1JaMzRYTFhXQi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -332,7 +332,7 @@ You can experiment with anything that can be varied, such as emails, sms/texts, 
 
 ### Reflection 
 (must be logged in)
-<center>  </center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMFdFSkJYUzIwM0Q0R0FWSEYwUEE1TTM2Uy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
@@ -351,12 +351,6 @@ You can experiment with anything that can be varied, such as emails, sms/texts, 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
-How I write my formative research project
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
-Update on article schema/instructions/rubric
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
 
 ### Quiz
 Modern language models have gotten very good at generating text. So good that they are now indistinguishable from human-created communication. 
@@ -371,7 +365,7 @@ Although the fluency and style of the language models has become uncannily good 
 
 ### Reflection 
 (must be logged in)
-<center> </center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOUdHWU42VjFDWkY2UjcwQ1JHQVlZQk1ZWi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
