@@ -11,7 +11,7 @@ id: 3
 <exercise id="1" title="Introduction to the Formative Research Project">
 
 ### Video
-<center><iframe width="560" height="315" src="https://youtu.be/N0Jz4Xg7aqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/N0Jz4Xg7aqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Writing Tips
