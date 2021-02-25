@@ -15,7 +15,7 @@ id: 3
 <p></p>
 
 ### Writing Tips
-<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Dx3RwfZL4Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Provisional Common Document
