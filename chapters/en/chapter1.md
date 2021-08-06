@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1: Introduction to Health Campaigns'
+title: 'Chapter 1: Introduction to Health Campaigns.'
 description:
   "This chapter will introduce you to the field of Health Communication.
   You'll learn about the history of public communication campaigns, about major disciplines involved, and about successes and failures. We will discuss the role of campaign strategy, theory, and research for creating a campaign that has maximal chances for success. The chapter is meant as an introduction and to provide the context for the main part of the course - the specific formative research methods. At the end, we will discuss the need for Formative Research and review the major branches of Formative Research Methods."
